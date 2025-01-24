@@ -78,7 +78,7 @@ Install Git LFS If you don't have Git LFS installed, download and install it fro
 
 Clone the repository
 
-git clone  https://github.com/t-abs/AI-Based-Disaster-Prediction-and-Response-System
+git clone  https://github.com/hasnain-hussain/Artificial-Intelligence-Based-Disaster-Prediction-and-Response-System
 
 cd Predicaster
 
